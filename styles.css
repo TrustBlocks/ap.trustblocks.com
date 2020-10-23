@@ -114,6 +114,10 @@ pre {
 	background-color: rgb(06, 03, 141) !important;
 }
 
+.black-background {
+	background-color: rgb(0,0,0);
+}
+
 .has-light {
 	font-weight: 200 !important;
 	font-style: normal;

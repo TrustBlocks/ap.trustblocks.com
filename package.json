@@ -41,6 +41,7 @@
     "lodash": "^4.17.19",
     "mocha": "5.2.0",
     "moment": "^2.22.2",
+    "netlify-cli": "^2.65.7",
     "nunjucks": "^3.2.1",
     "plantuml-encoder": "^1.2.5",
     "rimraf": "^2.6.2",

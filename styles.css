@@ -173,7 +173,8 @@ a.navbar-item img {
 .hero {
   padding-top: 140px;
   padding-bottom: 70px;
-  background-image: url(./assets/images/background.jpg);
+  background-color: rgb(141,3,69);
+  background-image: url(./assets/images/tb-pattern.png);
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: 2205px 2000px;

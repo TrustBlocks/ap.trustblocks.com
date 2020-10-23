@@ -6548,5 +6548,18 @@
         "type": 1,
         "logo": null,
         "author": "Accord Project"
+    },
+    "signature-block-title-name-date@0.19.0": {
+        "uri": "ap://signature-block-title-name-date@0.19.0#2081a00d3a005c5082443fee9c7a8c962b58c6edf366a15d2686a1f37b9e70a4",
+        "url": "https://templates.accordproject.org/archives/signature-block-title-name-date@0.19.0.cta",
+        "ciceroUrl": "https://templates.accordproject.org/archives/signature-block-title-name-date@0.19.0-cicero.cta",
+        "name": "signature-block-title-name-date",
+        "displayName": "Signature Block (Title, Name, Date)",
+        "description": "A signature block with name, title, date input fields",
+        "version": "0.19.0",
+        "ciceroVersion": "^0.21.0",
+        "type": 1,
+        "logo": null,
+        "author": "Accord Project"
     }
 }
